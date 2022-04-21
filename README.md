@@ -1,2 +1,2 @@
-# public
-Public Directory
+# READ ME
+Read Me file - TBD
